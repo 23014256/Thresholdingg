@@ -22,10 +22,8 @@ Use Adaptive thresholding to segment the image.
 ### Step5:
 Use Otsu's method to segment the image and display the results.
 ## Program
-```
 NAME : Suman G
 REG NO : 212223240163
-
 ```
 import cv2
 import matplotlib.pyplot as plt
